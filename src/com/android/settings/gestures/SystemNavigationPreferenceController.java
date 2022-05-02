@@ -62,13 +62,6 @@ public class SystemNavigationPreferenceController extends BasePreferenceControll
             return false;
         }
 
-        // Skip if the on-screen navbar is disabled (for devices with hardware keys)
-        // and the device does not allow gestures with active hardware keys
-        if (!(Utils.hasNavigationBar(context) || context.getResources().getBoolean(
-                R.bool.gestures_and_keys))) {
-            return false;
-        }
-
         // Skip if the recents component is not defined
         final ComponentName recentsComponentName = ComponentName.unflattenFromString(
                 context.getString(com.android.internal.R.string.config_recentsComponentName));
