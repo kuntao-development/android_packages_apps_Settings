@@ -190,8 +190,4 @@
     <string name="ambient_display_screen_off_udfps_title" product="device">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
     <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
-
-    <!-- Navigation options -->
-    <string name="hardware_keys_navigation">Hardware keys</string>
-    <string name="hardware_keys_navigation_summary">Use hardware keys for navigation</string>
 </resources>
