@@ -5090,6 +5090,8 @@
     <string name="edge_to_edge_navigation_summary" msgid="8497033810637690561">"Ana sayfaya gitmek için ekranın altından yukarı kaydırın. Uygulamalar arasında geçiş yapmak için ekranın altından yukarı kaydırın, tutun ve sonra bırakın. Geri gitmek için ekranın sol veya sağ kenarından kaydırın."</string>
     <string name="legacy_navigation_title" msgid="7877402855994423727">"3 düğmeli gezinme"</string>
     <string name="legacy_navigation_summary" msgid="5905301067778326433">"Geri gitme, Ana sayfaya gitme ve uygulamalar arasında geçiş yapma işlemleri için ekranınızın altındaki simgeleri kullanın."</string>
+    <string name="disable_navigation_title">Hareketle gezinmeyi devre dışı bırak</string>
+    <string name="disable_navigation_summary">Dokunmatik ekran hareketlerini devre dışı bırakın.</string>
     <string name="keywords_system_navigation" msgid="3131782378486554934">"sistemde gezinme, 2 düğmeli gezinme, 3 düğmeli gezinme, hareketle gezinme, kaydırma"</string>
     <string name="gesture_not_supported_dialog_message" msgid="5316512246119347889">"Varsayılan Home uygulamanız (<xliff:g id="DEFAULT_HOME_APP">%s</xliff:g>) tarafından desteklenmiyor"</string>
     <string name="gesture_not_supported_positive_button" msgid="7909969459977021893">"Varsayılan Home uygulamasını değiştir"</string>
