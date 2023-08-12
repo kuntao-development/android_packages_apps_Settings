@@ -204,4 +204,7 @@
     <!-- Navigation options -->
     <string name="hardware_keys_navigation">Hardware keys</string>
     <string name="hardware_keys_navigation_summary">Use hardware keys for navigation</string>
+
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Battery temperature</string>
 </resources>
